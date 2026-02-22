@@ -243,6 +243,7 @@ security_txt! {
     project_url: "https://saurs.ai",
     contacts: "email:reachout@saurs.ai",
     preferred_languages: "en",
+    policy:"https://saurs.ai",
     source_code: "https://github.com/thesaurailabs/Solana-On-Chain-SBTs-Contract",
     acknowledgements: "The SaurAI Labs",
     icon: "https://ipfs.io/ipfs/Qmbwdfd9BAbyPLJn3TixaTkKbSNZFLEa5cDam4Eev4eJHP"
